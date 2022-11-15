@@ -1,7 +1,38 @@
 nav ul li a, .drop li a {font-size: 20px; color: #0b77db !important; font-weight: 700;}
+
 #color {background-color: #dcebfa !important; color: #0b77db !important;}
+
 #drop li a:hover {background-color: #dcebfa !important; }
+
 nav form button {color: #0b77db !important; font-size: 20px; border-color: #0b77db !important;}
+
 nav form button:hover {color: white !important; background-color: #0b77db !important; }
 
+/*HOME PAGE */
 #row{display: flex; flex-direction: column; align-items: center; justify-content: center;}
+
+#height{height: 100%;}
+
+/*CONTACT US PAGE */
+.map-container{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-container iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.head-clr{color: #0b77db !important;}
+
+.btn-cen{margin: auto; width: 100px;}
+
+/*PRODUCTS*/
+#heading {
+	color: #0b77db !important; 
+}
