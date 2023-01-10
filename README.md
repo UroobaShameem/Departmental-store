@@ -1,2 +1,2 @@
 # Departmental Store website
-A Walmart inspired website using Bootstrap
+A Walmart's brand Great Value inspired website using Bootstrap
