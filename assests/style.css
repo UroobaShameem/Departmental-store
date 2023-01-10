@@ -36,3 +36,14 @@ nav form button:hover {color: white !important; background-color: #0b77db !impor
 #heading {
 	color: #0b77db !important; 
 }
+
+/*SERVICES*/
+#img {
+  width: 20%;
+  height: 20%;
+}
+
+#services-accordion {
+  width: 70%;
+  margin: auto;
+}
